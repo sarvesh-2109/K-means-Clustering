@@ -2,6 +2,14 @@
 
 This project demonstrates the use of K-Means clustering on the Iris dataset. The Iris dataset is a classic dataset in machine learning, often used for testing algorithms and models. In this notebook, we apply K-Means clustering to categorize the Iris data into different clusters based on petal length and width.
 
+## Output
+
+
+https://github.com/sarvesh-2109/K-means-Clustering/assets/113255836/0549b851-0c66-484a-bd16-42884a891d05
+
+
+
+
 ## Dataset
 
 The Iris dataset consists of 150 samples from each of three species of Iris flowers (Iris setosa, Iris virginica, and Iris versicolor). Four features were measured from each sample: the lengths and the widths of the sepals and petals.
